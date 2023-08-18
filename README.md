@@ -18,5 +18,5 @@
 
 #### Part 3: Deploy static HTML application with nginx web server
 
- - Write Playbook to deploy Static HMLT application to pods across the cluster
- - Verify the deploy
+ - Write Playbook to deploy Static HTML application to pods across the cluster
+ - Verify the deployment
